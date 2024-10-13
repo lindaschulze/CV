@@ -60,7 +60,7 @@ work:
       - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
       
       
-  - position: Backend Software Engineer
+  - position: Backend Software Engineer bla
     company_name: X
     company_url: ''
     company_logo: ''
