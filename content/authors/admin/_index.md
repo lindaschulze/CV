@@ -6,10 +6,6 @@ title: Linda Schulze
 first_name: Linda
 last_name: Schulze
 
-# Status emoji
-status: a
-  icon: :office:
-
 # Is this the primary user of the site?
 superuser: true
 
