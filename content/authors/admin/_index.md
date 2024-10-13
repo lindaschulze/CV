@@ -7,7 +7,7 @@ first_name: Linda
 last_name: Schulze
 
 # Status emoji
-status:
+status: a
   icon: :office:
 
 # Is this the primary user of the site?
