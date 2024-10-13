@@ -21,8 +21,8 @@ organizations:
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
-    date_start: 2014-04
-    date_end: 2016-03
+    date_start: 2014-04-01
+    date_end: 2016-03-01
     summary: |
       Schwerpunkt: HR & Finance
       ØNote 1,4 – Top 5%
@@ -31,21 +31,21 @@ education:
       url: 'https://example.com'
   - area: Auslandssemester (Master of Business Administration)
     institution: EAFIT University, Kolumbien
-    date_start: 2015-06
-    date_end: 2015-12
+    date_start: 2015-06-01
+    date_end: 2015-12-01
      
   - area: Bachelor of Science in Management and Economics (B.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
-    date_start: 2009-10
-    date_end: 2013-09
+    date_start: 2009-10-01
+    date_end: 2013-09-01
    
 work:
   - position: Projektkoordination, Querschnittsthemen & Gremienmanagement HR/RD
     company_name: Mercedes Benz AG
     company_url: ''
     company_logo: ''
-    date_start: 2022-06
-    date_end: 'jetzt'
+    date_start: 2022-06-01
+    date_end: ''
     summary: |2-
       Planung, Analyse und Präsentation der Personalplanungsprozesse für die Bereiche Entwicklung und Einkauf, inklusive Abstimmung und Harmonisierung mit den jeweiligen Fachabteilungen
 
