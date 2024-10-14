@@ -95,7 +95,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-02-01
-    date_end: 2018-06-31
+    date_end: 2018-06-30
     summary: |
             Projekt 1: HR MB Cars SEC Personalsteuerung (HRM/SECPS) 
             Unterstützung der operativen und strategischen Personalplanung; Konzeptionierung und Erstellung des HR Reports für MO/SEC 
