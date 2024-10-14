@@ -10,7 +10,7 @@ baseURL: 'https://lindaschulze.github.io/CV' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: de
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
