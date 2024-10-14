@@ -117,7 +117,7 @@ languages:
     percent: 90
   - name: Spanisch
     percent: 60
- - name: Japanisch
+  - name: Japanisch
     percent: 20
 
 # Awards.
