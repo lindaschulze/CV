@@ -47,8 +47,8 @@ work:
     date_start: 2022-06-01
     date_end: ''
     summary: |2-
-      Planung, Analyse und Präsentation der Personalplanungsprozesse für die Bereiche Entwicklung und Einkauf, inklusive Abstimmung und Harmonisierung mit den jeweiligen Fachabteilungen
-
+      Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts, Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD
+      
       Ergebnisse:
       - Projektleitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführueinheitlichen Fachkarriere für Experten und Expertinnen imng einer  Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten & Arbeitspaketleitung für die Prozessgestaltung und der Entwicklung eines adäquaten IT-Tools & unter Einbindung des Betriebsrats
       - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
@@ -63,25 +63,33 @@ work:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+            Planung, Analyse und Präsentation der Personalplanungsprozesse für die Bereiche Entwicklung und Einkauf, inklusive Abstimmung und Harmonisierung mit den jeweiligen Fachabteilungen
+
+            Ergebnisse:
+            - Automatisierung und Digitalisierung von Personalplanungsprozessen durch den Einsatz von Tools wie KNIME, VBA, SharePoint und PowerBI
+            - Entwicklung und Implementierung eines HR-KPI-Dashboards mit PowerBI für den Vorstand und die zugehörigen Direktionen in den Bereichen Entwicklung und Einkauf
+            
+            Leitung und aktive Mitarbeit in Sonderprojekten:
+            - Bereichsübergreifende Leitung des Vorstandsprojekts „HRM Focus Topic Data Analytics“ zur Einführung eines standardisierten HR-KPI-Dashboards für alle Vorstandsbereiche mithilfe von PowerBI
+            - Fachübergreifende Projektleitung für den Rollout und der technischen Umsetzung IMPULSE/- MyContribution auf Sachbearbeitungsebene in RD
+            - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der - Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
+            - Mitarbeit an der Kulturinitiative Culture@HR/RD
+            
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: PowerBI
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: VBA
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: KNIME
         description: ''
         percent: 40
         icon: devicon/pytorch
@@ -89,26 +97,28 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Esen
         description: ''
         percent: 100
-        icon: cat
+        icon: person-simple-walk
+      - name: Kitesurfen
+        description: ''
+        percent: 100
+        icon: Tauchen
       - name: Photography
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Deutsch
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Englisch
+    percent: 90
+  - name: Spanisch
+    percent: 60
+ - name: Japanisch
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -142,4 +152,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Engagiert, motiviert, agil, bereit die extra Meile zu gehen und das mit viel Erfahrung im Unternehmen
+
