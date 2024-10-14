@@ -117,15 +117,15 @@ skills:
       - name: PowerBI
         description: ''
         percent: 80
-        icon: custom/PowerBi.png
+        icon: custom/pasta
       - name: VBA
         description: ''
         percent: 100
-        icon: custom/vba.png
+        icon: ccustom/pasta
       - name: KNIME
         description: ''
         percent: 40
-        icon: custom/knime.png
+        icon: custom/pasta
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,15 +133,15 @@ skills:
       - name: Essen
         description: ''
         percent: 100
-        icon: custom/food
+        icon: custom/pasta
       - name: Kitesurfen
         description: ''
         percent: 40
-        icon: custom/kitesurfing
+        icon: custom/pasta
       - name: Diving
         description: ''
         percent: 80
-        icon: custom/diving
+        icon: custom/pasta
 
 languages:
   - name: Deutsch

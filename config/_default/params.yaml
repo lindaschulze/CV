@@ -15,9 +15,9 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'CV Linda Schulze'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-3YQKPBGEVP'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -53,14 +53,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# Google Analytics
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3YQKPBGEVP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-3YQKPBGEVP');
-</script>
