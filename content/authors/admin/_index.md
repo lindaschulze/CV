@@ -56,12 +56,12 @@ work:
       - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
       
       
-  - position: Backend Software Engineer bla
-    company_name: X
+  - position: Personalplanung & Reporting RD, CASE-CTO, CASE, MP 
+    company_name: Mercedes Benz AG
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-01
+    date_end: 2022-05-31
     summary: |
             Planung, Analyse und Präsentation der Personalplanungsprozesse für die Bereiche Entwicklung und Einkauf, inklusive Abstimmung und Harmonisierung mit den jeweiligen Fachabteilungen
 
@@ -75,6 +75,39 @@ work:
             - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der - Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
             - Mitarbeit an der Kulturinitiative Culture@HR/RD
             
+  - position: Personalplanung und Resource Management MO/SEC 
+    company_name: Mercedes Benz AG
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-07-01
+    date_end: 2019-12-31
+    summary: |
+            Strategisches Resource Management sowie Planung, Analyse und Präsentation der Personalplanungsprozesse für die Bereiche in MO/SEC
+
+            Ergebnisse:
+            - Automatisierung und Digitalisierung von Personalplanungsprozessen durch den Einsatz von VBA und Makros
+            - Leitung und Umsetzung vom Skill Management-Prozess inkl. Workshops
+            - Qualitative und quantitative Analysen für eine zukunftsorientiertes Resource Management
+            - Ausarbeitung der Personalberichterstattung für die Kommunikation nach innen und außen
+
+  - position: CAReer – The Top Talent Program  
+    company_name: Daimler AG
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-02-01
+    date_end: 2018-06-31
+    summary: |
+            Projekt 1: HR MB Cars SEC Personalsteuerung (HRM/SECPS) 
+            Unterstützung der operativen und strategischen Personalplanung; Konzeptionierung und Erstellung des HR Reports für MO/SEC 
+            Projekt 2: Overhead Controlling & Plant Performance (FMC/SA) 
+            Aufbau einer neuen Personalplanungsfunktion in MBSA; Implementierung eines neuen Personalplanungstools
+            Projekt 3: Global Assignment Management (HRD/G) 
+            Erstellung Trainingspaket für die HR Abteilungen in Asien zur neuen Global Mobility Policy 
+            Projekt 4: After-Sales Marktdaten und Analysen (MS/DSM) 
+            Überarbeitung des Quality Gate Prozesses für eine saubere Grundlage für Marktdatenanalysen
+            Projekt 5: Stab des Personalvorstands der Daimler AG (HR) 
+            Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
