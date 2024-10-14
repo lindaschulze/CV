@@ -117,15 +117,15 @@ skills:
       - name: PowerBI
         description: ''
         percent: 80
-        icon: devicon/PowerBi
+        icon: custom/PowerBi.png
       - name: VBA
         description: ''
         percent: 100
-        icon: devicon/vba
+        icon: custom/vba.png
       - name: KNIME
         description: ''
         percent: 40
-        icon: devicon/knime
+        icon: custom/knime.png
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,15 +133,15 @@ skills:
       - name: Essen
         description: ''
         percent: 100
-        icon: custom/food
+        icon: custom/food.png
       - name: Kitesurfen
         description: ''
         percent: 40
-        icon: custom/kitesurfing
+        icon: custom/kitesurfing.png
       - name: Diving
         description: ''
         percent: 80
-        icon: custom/diving
+        icon: custom/diving.png
 
 languages:
   - name: Deutsch
@@ -157,7 +157,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-key achievements:
+awards:
   - title: Cross-funktionale, cross-divisionale Projektleitungserfahrung
     url: 
     date: ''
