@@ -117,31 +117,31 @@ skills:
       - name: PowerBI
         description: ''
         percent: 80
-        icon: devicon/python
+        icon: devicon/PowerBi
       - name: VBA
         description: ''
         percent: 100
-        icon: devicon/rstudio
+        icon: devicon/vba
       - name: KNIME
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/knime
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Esen
+      - name: Essen
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: custom/food
       - name: Kitesurfen
         description: ''
-        percent: 100
-        icon: Tauchen
-      - name: Photography
+        percent: 40
+        icon: custom/kitesurfing
+      - name: Diving
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/diving
 
 languages:
   - name: Deutsch
