@@ -133,15 +133,15 @@ skills:
       - name: Essen
         description: ''
         percent: 100
-        icon: custom/food.png
+        icon: custom/food
       - name: Kitesurfen
         description: ''
         percent: 40
-        icon: custom/kitesurfing.png
+        icon: custom/kitesurfing
       - name: Diving
         description: ''
         percent: 80
-        icon: custom/diving.png
+        icon: custom/diving
 
 languages:
   - name: Deutsch
