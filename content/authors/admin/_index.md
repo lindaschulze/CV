@@ -17,7 +17,7 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-strengths:
+skills:
   - name: Test
     items:
       - name: A
