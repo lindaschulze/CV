@@ -1,16 +1,75 @@
-<section class="bg-gray-100 py-8">
-    <div class="container mx-auto px-4">
-        <div class="text-center mb-8">
-            <h2 class="text-3xl font-bold text-gray-800">Meine Stärken</h2>
-        </div>
-        
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-            {{ range .Params.strengths }}
-            <div class="flex items-center bg-white p-4 shadow-md rounded-lg">
-                <img src="{{ .icon }}" alt="{{ .name }} Icon" class="w-10 h-10 mr-4">
-                <span class="text-lg text-gray-700">{{ .name }}</span>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Stärken</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+        .strength {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            background-color: #e8e8e8;
+            border-radius: 5px;
+        }
+        .strength img {
+            height: 30px;
+            width: 30px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My Strengths</h1>
+        <div class="grid">
+            <div class="strength">
+                <img src="path/to/icon1.png" alt="Strength 1">
+                <span>Strength 1</span>
             </div>
-            {{ end }}
+            <div class="strength">
+                <img src="path/to/icon2.png" alt="Strength 2">
+                <span>Strength 2</span>
+            </div>
+            <div class="strength">
+                <img src="path/to/icon3.png" alt="Strength 3">
+                <span>Strength 3</span>
+            </div>
+            <div class="strength">
+                <img src="path/to/icon4.png" alt="Strength 4">
+                <span>Strength 4</span>
+            </div>
+            <div class="strength">
+                <img src="path/to/icon5.png" alt="Strength 5">
+                <span>Strength 5</span>
+            </div>
+            <div class="strength">
+                <img src="path/to/icon6.png" alt="Strength 6">
+                <span>Strength 6</span>
+            </div>
         </div>
     </div>
-</section>
+</body>
+</html>
