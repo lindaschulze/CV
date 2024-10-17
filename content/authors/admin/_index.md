@@ -181,3 +181,5 @@ awards:
 ---
 
 test
+
+{{< strengths >}}
