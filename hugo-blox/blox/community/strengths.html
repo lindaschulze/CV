@@ -1,44 +1,29 @@
-<div class="container">
-    <h1>strengths</h1>
-    <div class="grid">
-        <div class="strength">
-            <img src="/assets/media/icons/icon1.png" alt="Strength 1">
+<div class="bg-white border rounded-lg p-6 shadow-md">
+    <h2 class="text-lg font-bold mb-4">strengths</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div class="flex items-center">
+            <img src="{{<rel "assets/media/icons/custom/strength1.png">}}" alt="Strength 1" class="w-8 h-8 mr-2">
             <span>Strength 1</span>
         </div>
-        <div class="strength">
-            <img src="/assets/media/icons/icon2.png" alt="Strength 2">
+        <div class="flex items-center">
+            <img src="{{<rel "assets/media/icons/custom/strength2.png">}}" alt="Strength 2" class="w-8 h-8 mr-2">
             <span>Strength 2</span>
         </div>
-        <div class="strength">
-            <img src="/assets/media/icons/icon3.png" alt="Strength 3">
+        <div class="flex items-center">
+            <img src="{{<rel "assets/media/icons/custom/strength3.png">}}" alt="Strength 3" class="w-8 h-8 mr-2">
             <span>Strength 3</span>
         </div>
-        <div class="strength">
-            <img src="/assets/media/icons/icon4.png" alt="Strength 4">
+        <div class="flex items-center">
+            <img src="{{<rel "assets/media/icons/custom/strength4.png">}}" alt="Strength 4" class="w-8 h-8 mr-2">
             <span>Strength 4</span>
         </div>
-        <div class="strength">
-            <img src="/assets/media/icons/icon5.png" alt="Strength 5">
+        <div class="flex items-center">
+            <img src="{{<rel "assets/media/icons/custom/strength5.png">}}" alt="Strength 5" class="w-8 h-8 mr-2">
             <span>Strength 5</span>
         </div>
-        <div class="strength">
-            <img src="/assets/media/icons/icon6.png" alt="Strength 6">
+        <div class="flex items-center">
+            <img src="{{<rel "assets/media/icons/custom/strength6.png">}}" alt="Strength 6" class="w-8 h-8 mr-2">
             <span>Strength 6</span>
         </div>
     </div>
 </div>
-
-<style>
-    .container {
-        padding: 20px;
-        text-align: center;
-    }
-    .grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-        gap: 10px;
-        margin-top: 20px;
-    }
-    .strength {
-        display: flex;
-        align-items: center

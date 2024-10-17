@@ -18,10 +18,6 @@ organizations:
     url: https://www.mercedes-benz.com/
 
 # Stärken
----
-title: "Home"
----
-
 {{< strengths >}}
 
 education:
