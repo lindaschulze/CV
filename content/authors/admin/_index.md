@@ -18,7 +18,7 @@ organizations:
     url: https://www.mercedes-benz.com/
 
 # Stärken
-strengths:
+Meine Stärken:
   - name: Leadership
     icon: /icons/leadership.png
 
