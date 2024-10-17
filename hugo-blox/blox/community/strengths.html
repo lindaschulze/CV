@@ -1,75 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meine Stärken</title>
-    <style>
-        body {
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-        }
-        .container {
-            max-width: 800px;
-            margin: 50px auto;
-            padding: 20px;
-            background-color: white;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        h1 {
-            text-align: center;
-            font-size: 2em;
-            margin-bottom: 20px;
-        }
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-        }
-        .strength {
-            display: flex;
-            align-items: center;
-            padding: 10px;
-            background-color: #e8e8e8;
-            border-radius: 5px;
-        }
-        .strength img {
-            height: 30px;
-            width: 30px;
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>My Strengths</h1>
-        <div class="grid">
-            <div class="strength">
-                <img src="path/to/icon1.png" alt="Strength 1">
-                <span>Strength 1</span>
-            </div>
-            <div class="strength">
-                <img src="path/to/icon2.png" alt="Strength 2">
-                <span>Strength 2</span>
-            </div>
-            <div class="strength">
-                <img src="path/to/icon3.png" alt="Strength 3">
-                <span>Strength 3</span>
-            </div>
-            <div class="strength">
-                <img src="path/to/icon4.png" alt="Strength 4">
-                <span>Strength 4</span>
-            </div>
-            <div class="strength">
-                <img src="path/to/icon5.png" alt="Strength 5">
-                <span>Strength 5</span>
-            </div>
-            <div class="strength">
-                <img src="path/to/icon6.png" alt="Strength 6">
-                <span>Strength 6</span>
-            </div>
+<div class="container">
+    <h1>My Strengths</h1>
+    <div class="grid">
+        <div class="strength">
+            <img src="/assets/media/icons/icon1.png" alt="Strength 1">
+            <span>Strength 1</span>
+        </div>
+        <div class="strength">
+            <img src="/assets/media/icons/icon2.png" alt="Strength 2">
+            <span>Strength 2</span>
+        </div>
+        <div class="strength">
+            <img src="/assets/media/icons/icon3.png" alt="Strength 3">
+            <span>Strength 3</span>
+        </div>
+        <div class="strength">
+            <img src="/assets/media/icons/icon4.png" alt="Strength 4">
+            <span>Strength 4</span>
+        </div>
+        <div class="strength">
+            <img src="/assets/media/icons/icon5.png" alt="Strength 5">
+            <span>Strength 5</span>
+        </div>
+        <div class="strength">
+            <img src="/assets/media/icons/icon6.png" alt="Strength 6">
+            <span>Strength 6</span>
         </div>
     </div>
-</body>
-</html>
+</div>
+
+<style>
+    .container {
+        padding: 20px;
+        text-align: center;
+    }
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 10px;
+        margin-top: 20px;
+    }
+    .strength {
+        display: flex;
+        align-items: center
