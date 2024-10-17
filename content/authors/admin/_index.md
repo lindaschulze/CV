@@ -18,9 +18,11 @@ organizations:
     url: https://www.mercedes-benz.com/
 
 # Stärken
-Meine Stärken:
-  - name: Leadership
-    icon: /icons/leadership.png
+---
+title: "Home"
+---
+
+{{< strengths >}}
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
