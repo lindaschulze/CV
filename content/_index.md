@@ -50,3 +50,5 @@ sections:
       title: strengths
       username: admin
 ---
+
+{{< strengths >}}
