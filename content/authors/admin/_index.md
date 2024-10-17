@@ -17,6 +17,8 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
+# Add your strengths section directly below (HTML or Markdown)
+
 ## My Strengths
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; border: 1px solid #ccc; padding: 20px; border-radius: 10px;">
