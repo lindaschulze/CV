@@ -17,21 +17,7 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-strengths: 
-  - name: Technical Skills
-      items:
-        - name: PowerBI
-          description: ''
-          percent: 80
-          icon: custom/powerbi
-        - name: VBA
-          description: ''
-          percent: 100
-          icon: ccustom/pasta
-        - name: KNIME
-          description: ''
-          percent: 40
-          icon: custom/pasta
+strengths:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -209,7 +195,3 @@ awards:
       - Unterstützung der operativen und strategischen Personalplanung sowohl im MO- sowie RD- & MP-Umfeld
       - Aufbau einer neuen Personalplanungsfunktion in MBSA (East London, Südafrika); Implementierung eines neuen Personalplanungstools 
       - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
----
-
-Test
-
