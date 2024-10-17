@@ -17,13 +17,7 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-blox: bibi
-
-bibi:
-  - 🤖 Natural Language Processing
-  - 💻 Computer Vision
-  - 🏥 Medical Image Processing
-  - 📃 Computational Advertising
+{{< strengths >}}
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
