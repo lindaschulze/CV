@@ -124,11 +124,11 @@ skills:
       - name: PowerBI
         description: ''
         percent: 80
-        icon: custom/powerbi
+        icon: custom/reporting2
       - name: VBA
         description: ''
         percent: 100
-        icon: ccustom/pasta
+        icon: custom/pasta
       - name: KNIME
         description: ''
         percent: 40
