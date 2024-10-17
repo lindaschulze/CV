@@ -45,8 +45,8 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: strengths
+  - block: bibi
     content:
-      title: strengths
+      title: bibi
       username: admin
 ---
