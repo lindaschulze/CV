@@ -17,13 +17,7 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-strengths:
-  - name: Reporting
-    items:
-      - name: Reporting
-        description: ''
-        percent: 80
-        icon: custom/reporting
+blox: strengths
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
