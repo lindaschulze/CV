@@ -18,7 +18,7 @@ organizations:
     url: https://www.mercedes-benz.com/
 
 # Stärken
-Strengths:
+strengths:
   - name: Umfangreiche Personalplanungserfahrung 
     items:
       - name: Planung
