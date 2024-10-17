@@ -17,6 +17,34 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
+## My Strengths
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; border: 1px solid #ccc; padding: 20px; border-radius: 10px;">
+    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
+        <img src="{{ "assets/media/icons/custom/icon1.png" | absURL }}" alt="Icon 1" style="max-width: 60%;"><br>
+        Strength 1
+    </div>
+    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
+        <img src="{{ "assets/media/icons/custom/icon2.png" | absURL }}" alt="Icon 2" style="max-width: 60%;"><br>
+        Strength 2
+    </div>
+    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
+        <img src="{{ "assets/media/icons/custom/icon3.png" | absURL }}" alt="Icon 3" style="max-width: 60%;"><br>
+        Strength 3
+    </div>
+    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
+        <img src="{{ "assets/media/icons/custom/icon4.png" | absURL }}" alt="Icon 4" style="max-width: 60%;"><br>
+        Strength 4
+    </div>
+    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
+        <img src="{{ "assets/media/icons/custom/icon5.png" | absURL }}" alt="Icon 5" style="max-width: 60%;"><br>
+        Strength 5
+    </div>
+    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
+        <img src="{{ "assets/media/icons/custom/icon6.png" | absURL }}" alt="Icon 6" style="max-width: 60%;"><br>
+        Strength 6
+    </div>
+</div>
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
@@ -181,5 +209,5 @@ awards:
       - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
 ---
 
-{{< strengths >}}
+test
 
