@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-10-17
 type: landing
 
 design:
@@ -27,7 +27,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: strengths
     content:
-      title: Stärken
+      title: Strengths
       username: admin
   - block: experience
     content:

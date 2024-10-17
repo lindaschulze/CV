@@ -17,25 +17,38 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-# Stärken
----
-title: "Your Page Title"
-
-strengths:
-  - icon: "assets/media/icons/custom/reporting.png"
-    text: "Strength 1"
-  - icon: "assets/media/icons/custom/reporting.png"
-    text: "Strength 2"
-  - icon: "assets/media/icons/custom/reporting.png"
-    text: "Strength 3"
-  - icon: "assets/media/icons/custom/reporting.png"
-    text: "Strength 4"
-  - icon: "assets/media/icons/custom/reporting.png"
-    text: "Strength 5"
-  - icon: "assets/media/icons/custom/reporting.png"
-    text: "Strength 6"
----
-
+strengths: 
+- name: Technical Skills
+    items:
+      - name: PowerBI
+        description: ''
+        percent: 80
+        icon: custom/powerbi
+      - name: VBA
+        description: ''
+        percent: 100
+        icon: ccustom/pasta
+      - name: KNIME
+        description: ''
+        percent: 40
+        icon: custom/pasta
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Essen
+        description: ''
+        percent: 100
+        icon: custom/pasta
+      - name: Kitesurfen
+        description: ''
+        percent: 40
+        icon: custom/pasta
+      - name: Diving
+        description: ''
+        percent: 80
+        icon: custom/pasta
+        
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
