@@ -184,32 +184,21 @@ test
 
 
 <style>
-  .no-border {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  .no-border th, .no-border td {
-    border: none; /* Entfernt die Ränder */
-    padding: 8px; /* Fügt etwas Abstand hinzu */
-    text-align: center; /* Zentriert den Text */
-  }
-</style>
+<div style="display: flex; justify-content: space-between;">
 
-<table class="no-border">
-  <tr>
-    <th><strong>Stärken</strong></th>
-    <th><strong>Stärken</strong></th>
-  </tr>
-  <tr>
-    <td>Teamarbeit</td>
-    <td>Kreativität</td>
-  </tr>
-  <tr>
-    <td>Problemlösung</td>
-    <td>Zuverlässigkeit</td>
-  </tr>
-  <tr>
-    <td>Flexibilität</td>
-    <td>Kommunikation</td>
-  </tr>
-</table>
+  <div style="flex: 1; text-align: center;">
+    <strong>Stärken</strong><br>
+    Mehrjährige Personalplanungserfahrung<br>
+    Cross-divisionale Leitung von Transformations- und Digitalisierungsprojekte<br>
+    Analytisches Denken<br>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <strong>Stärken</strong><br>
+    Topmanagement<br>
+    Komplexität simpel darstellen<br>
+    Internationale Erfahrung<br>
+  </div>
+  
+</div>
+
