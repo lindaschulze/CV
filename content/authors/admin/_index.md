@@ -153,26 +153,6 @@ languages:
   - name: Japanisch
     percent: 20
 
-# Strengths Section
-strengths:
-  - name: Leadership
-    description: "Experienced in leading cross-functional teams"
-    icon: "/media/icons/custom/reporting.png"
-  - name: Data Analytics
-    description: "Skilled in PowerBI and data analysis tools"
-    icon: "/media/icons/custom/data_analytics.png"
-  - name: Problem Solving
-    description: "Excellent at troubleshooting and providing effective solutions"
-    icon: "/media/icons/custom/problem_solving.png"
-  - name: Team Collaboration
-    description: "Proven record of working collaboratively across teams"
-    icon: "/media/icons/custom/team_collaboration.png"
-  - name: Project Management
-    description: "Managed various projects from planning to execution"
-    icon: "/media/icons/custom/project_management.png"
-  - name: Communication
-    description: "Strong communication skills for conveying ideas"
-    icon: "/media/icons/custom/communication.png"
 
 # Awards.
 #   Add/remove as many awards below as you like.
