@@ -19,10 +19,8 @@ organizations:
 
 # Stärken
 strengths:
-  - name: Umfangreiche Personalplanungserfahrung 
-    items:
-      - name: Planung
-        icon: custom/reporting2
+  - name: Leadership
+    icon: /icons/leadership.png
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
