@@ -25,7 +25,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: strenghts
+  - block: strengths
     content:
       title: Stärken
       username: admin
