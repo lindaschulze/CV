@@ -17,24 +17,6 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-strengths:
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Essen
-        description: ''
-        percent: 100
-        icon: custom/pasta
-      - name: Kitesurfen
-        description: ''
-        percent: 40
-        icon: custom/pasta
-      - name: Diving
-        description: ''
-        percent: 80
-        icon: custom/pasta
-
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
@@ -195,3 +177,6 @@ awards:
       - Unterstützung der operativen und strategischen Personalplanung sowohl im MO- sowie RD- & MP-Umfeld
       - Aufbau einer neuen Personalplanungsfunktion in MBSA (East London, Südafrika); Implementierung eines neuen Personalplanungstools 
       - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
+---
+
+Test
