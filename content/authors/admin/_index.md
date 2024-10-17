@@ -155,18 +155,24 @@ languages:
 
 # Strengths Section
 strengths:
-  - title: "Analytical Thinking"
-    icon: "assets/media/icons/custom/reporting.png"
-  - title: "Problem Solving"
-    icon: "assets/media/icons/custom/strength2.png"
-  - title: "Team Leadership"
-    icon: "assets/media/icons/custom/strength3.png"
-  - title: "Project Management"
-    icon: "assets/media/icons/custom/strength4.png"
-  - title: "Data Analysis"
-    icon: "assets/media/icons/custom/strength5.png"
-  - title: "Strategic Planning"
-    icon: "assets/media/icons/custom/strength6.png"
+  - name: Leadership
+    description: "Experienced in leading cross-functional teams"
+    icon: "/media/icons/custom/reporting.png"
+  - name: Data Analytics
+    description: "Skilled in PowerBI and data analysis tools"
+    icon: "/media/icons/custom/data_analytics.png"
+  - name: Problem Solving
+    description: "Excellent at troubleshooting and providing effective solutions"
+    icon: "/media/icons/custom/problem_solving.png"
+  - name: Team Collaboration
+    description: "Proven record of working collaboratively across teams"
+    icon: "/media/icons/custom/team_collaboration.png"
+  - name: Project Management
+    description: "Managed various projects from planning to execution"
+    icon: "/media/icons/custom/project_management.png"
+  - name: Communication
+    description: "Strong communication skills for conveying ideas"
+    icon: "/media/icons/custom/communication.png"
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -195,4 +201,28 @@ awards:
       - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
 ---
 
-Test
+## My Strengths
+
+1. **Leadership**  
+   ![Leadership Icon](/media/icons/custom/reporting.png)  
+   Experienced in leading cross-functional teams and delivering on complex projects.
+
+2. **Data Analytics**  
+   ![Data Analytics Icon](/media/icons/custom/data_analytics.png)  
+   Skilled in PowerBI and data analysis tools to drive decision-making.
+
+3. **Problem Solving**  
+   ![Problem Solving Icon](/media/icons/custom/problem_solving.png)  
+   Ability to troubleshoot issues and implement solutions quickly and effectively.
+
+4. **Team Collaboration**  
+   ![Team Collaboration Icon](/media/icons/custom/team_collaboration.png)  
+   Proven record of working collaboratively across teams to deliver shared goals.
+
+5. **Project Management**  
+   ![Project Management Icon](/media/icons/custom/project_management.png)  
+   Managed various projects from planning to successful execution.
+
+6. **Communication**  
+   ![Communication Icon](/media/icons/custom/communication.png)  
+   Excellent communication skills for conveying ideas clearly and efficiently.
