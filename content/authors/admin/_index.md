@@ -17,7 +17,6 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-{{< strengths >}}
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
@@ -182,4 +181,5 @@ awards:
       - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
 ---
 
-Test
+{{< strengths >}}
+
