@@ -18,20 +18,20 @@ organizations:
     url: https://www.mercedes-benz.com/
 
 strengths: 
-- name: Technical Skills
-    items:
-      - name: PowerBI
-        description: ''
-        percent: 80
-        icon: custom/powerbi
-      - name: VBA
-        description: ''
-        percent: 100
-        icon: ccustom/pasta
-      - name: KNIME
-        description: ''
-        percent: 40
-        icon: custom/pasta
+  - name: Technical Skills
+      items:
+        - name: PowerBI
+          description: ''
+          percent: 80
+          icon: custom/powerbi
+        - name: VBA
+          description: ''
+          percent: 100
+          icon: ccustom/pasta
+        - name: KNIME
+          description: ''
+          percent: 40
+          icon: custom/pasta
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -48,7 +48,7 @@ strengths:
         description: ''
         percent: 80
         icon: custom/pasta
-        
+
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
