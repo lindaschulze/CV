@@ -201,28 +201,31 @@ awards:
       - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
 ---
 
-## My Strengths
+# Strengths Section
 
-1. **Leadership**  
-   ![Leadership Icon](/media/icons/custom/reporting.png)  
-   Experienced in leading cross-functional teams and delivering on complex projects.
-
-2. **Data Analytics**  
-   ![Data Analytics Icon](/media/icons/custom/data_analytics.png)  
-   Skilled in PowerBI and data analysis tools to drive decision-making.
-
-3. **Problem Solving**  
-   ![Problem Solving Icon](/media/icons/custom/problem_solving.png)  
-   Ability to troubleshoot issues and implement solutions quickly and effectively.
-
-4. **Team Collaboration**  
-   ![Team Collaboration Icon](/media/icons/custom/team_collaboration.png)  
-   Proven record of working collaboratively across teams to deliver shared goals.
-
-5. **Project Management**  
-   ![Project Management Icon](/media/icons/custom/project_management.png)  
-   Managed various projects from planning to successful execution.
-
-6. **Communication**  
-   ![Communication Icon](/media/icons/custom/communication.png)  
-   Excellent communication skills for conveying ideas clearly and efficiently.
+<div class="grid grid-cols-2 gap-4 mb-8">
+  <div class="flex items-center">
+    <img src="/assets/media/icons/custom/strength1.png" alt="Strength 1" class="w-8 h-8 mr-2">
+    <span>Strength 1</span>
+  </div>
+  <div class="flex items-center">
+    <img src="/assets/media/icons/custom/strength2.png" alt="Strength 2" class="w-8 h-8 mr-2">
+    <span>Strength 2</span>
+  </div>
+  <div class="flex items-center">
+    <img src="/assets/media/icons/custom/strength3.png" alt="Strength 3" class="w-8 h-8 mr-2">
+    <span>Strength 3</span>
+  </div>
+  <div class="flex items-center">
+    <img src="/assets/media/icons/custom/strength4.png" alt="Strength 4" class="w-8 h-8 mr-2">
+    <span>Strength 4</span>
+  </div>
+  <div class="flex items-center">
+    <img src="/assets/media/icons/custom/strength5.png" alt="Strength 5" class="w-8 h-8 mr-2">
+    <span>Strength 5</span>
+  </div>
+  <div class="flex items-center">
+    <img src="/assets/media/icons/custom/strength6.png" alt="Strength 6" class="w-8 h-8 mr-2">
+    <span>Strength 6</span>
+  </div>
+</div>
