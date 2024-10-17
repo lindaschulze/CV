@@ -1,16 +1,29 @@
-<section class="bg-gray-100 py-8">
-  <div class="container mx-auto px-4">
-      <div class="text-center mb-8">
-          <h2 class="text-3xl font-bold text-gray-800">My Strengths</h2>
-      </div>
-      
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          {{ range .Params.strengths }}
-          <div class="flex items-center bg-white p-4 shadow-md rounded-lg">
-              <img src="{{ .icon }}" alt="{{ .name }} Icon" class="w-10 h-10 mr-4">
-              <span class="text-lg text-gray-700">{{ .name }}</span>
-          </div>
-          {{ end }}
-      </div>
-  </div>
-</section>
+<div class="container">
+    <h1>My Strengths</h1>
+    <div class="grid">
+        <div class="strength">
+            <img src="https://via.placeholder.com/30" alt="Strength 1">
+            <span>Strength 1</span>
+        </div>
+        <div class="strength">
+            <img src="https://via.placeholder.com/30" alt="Strength 2">
+            <span>Strength 2</span>
+        </div>
+        <div class="strength">
+            <img src="https://via.placeholder.com/30" alt="Strength 3">
+            <span>Strength 3</span>
+        </div>
+        <div class="strength">
+            <img src="https://via.placeholder.com/30" alt="Strength 4">
+            <span>Strength 4</span>
+        </div>
+        <div class="strength">
+            <img src="https://via.placeholder.com/30" alt="Strength 5">
+            <span>Strength 5</span>
+        </div>
+        <div class="strength">
+            <img src="https://via.placeholder.com/30" alt="Strength 6">
+            <span>Strength 6</span>
+        </div>
+    </div>
+</div>
