@@ -116,7 +116,7 @@ skills:
       - name: PowerBI
         description: ''
         percent: 80
-        icon: custom/reporting2
+        icon: custom/pasta
       - name: VBA
         description: ''
         percent: 100

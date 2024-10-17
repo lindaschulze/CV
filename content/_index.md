@@ -45,5 +45,16 @@ sections:
     content:
       title: Languages
       username: admin
-
+  - block: strengths # New section for strengths
+    content:
+      title: Strengths
+      items:
+        - name: Teamwork
+        - name: Creativity
+        - name: Problem-solving
+        - name: Reliability
+        - name: Flexibility
+        - name: Communication
+    design:
+      layout: '2x3' # Custom layout for the strengths section
 ---
