@@ -17,21 +17,6 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-skills:
-  - name: Test
-    items:
-      - name: A
-        description: ''
-        percent: 80
-        icon: custom/powerbi
-      - name: B
-        description: ''
-        percent: 100
-        icon: ccustom/pasta
-      - name: C
-        description: ''
-        percent: 40
-        icon: custom/pasta
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
@@ -167,6 +152,21 @@ languages:
     percent: 60
   - name: Japanisch
     percent: 20
+
+# Strengths Section
+strengths:
+  - title: "Analytical Thinking"
+    icon: "assets/media/icons/custom/reporting.png"
+  - title: "Problem Solving"
+    icon: "assets/media/icons/custom/strength2.png"
+  - title: "Team Leadership"
+    icon: "assets/media/icons/custom/strength3.png"
+  - title: "Project Management"
+    icon: "assets/media/icons/custom/strength4.png"
+  - title: "Data Analysis"
+    icon: "assets/media/icons/custom/strength5.png"
+  - title: "Strategic Planning"
+    icon: "assets/media/icons/custom/strength6.png"
 
 # Awards.
 #   Add/remove as many awards below as you like.
