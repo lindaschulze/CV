@@ -45,4 +45,8 @@ sections:
     content:
       title: Languages
       username: admin
+  - block: strenghts
+    content:
+      title: strenghts
+      username: admin
 ---
