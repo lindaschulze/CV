@@ -45,10 +45,5 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: strengths
-    content:
-      title: strengths
-      username: admin
----
 
-{{< strengths >}}
+---
