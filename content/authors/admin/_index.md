@@ -183,10 +183,33 @@ awards:
 test
 
 
-## Meine Stärken
+<style>
+  .no-border {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .no-border th, .no-border td {
+    border: none; /* Entfernt die Ränder */
+    padding: 8px; /* Fügt etwas Abstand hinzu */
+    text-align: center; /* Zentriert den Text */
+  }
+</style>
 
-| Stärken          |              |
-|------------------|--------------|
-| Teamarbeit       | Kreativität   |
-| Problemlösung    | Zuverlässigkeit|
-| Flexibilität     | Kommunikation  |
+<table class="no-border">
+  <tr>
+    <th><strong>Stärken</strong></th>
+    <th><strong>Stärken</strong></th>
+  </tr>
+  <tr>
+    <td>Teamarbeit</td>
+    <td>Kreativität</td>
+  </tr>
+  <tr>
+    <td>Problemlösung</td>
+    <td>Zuverlässigkeit</td>
+  </tr>
+  <tr>
+    <td>Flexibilität</td>
+    <td>Kommunikation</td>
+  </tr>
+</table>
