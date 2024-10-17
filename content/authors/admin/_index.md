@@ -17,21 +17,6 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-# My Strengths
-strengths:
-  - name: Strength 1
-    icon: "{{ "assets/media/icons/custom/icon1.png" | absURL }}"
-  - name: Strength 2
-    icon: "{{ "assets/media/icons/custom/icon2.png" | absURL }}"
-  - name: Strength 3
-    icon: "{{ "assets/media/icons/custom/icon3.png" | absURL }}"
-  - name: Strength 4
-    icon: "{{ "assets/media/icons/custom/icon4.png" | absURL }}"
-  - name: Strength 5
-    icon: "{{ "assets/media/icons/custom/icon5.png" | absURL }}"
-  - name: Strength 6
-    icon: "{{ "assets/media/icons/custom/icon6.png" | absURL }}"
-    
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
@@ -197,3 +182,11 @@ awards:
 
 test
 
+
+## Meine Stärken
+
+| Stärken          |              |
+|------------------|--------------|
+| Teamarbeit       | Kreativität   |
+| Problemlösung    | Zuverlässigkeit|
+| Flexibilität     | Kommunikation  |
