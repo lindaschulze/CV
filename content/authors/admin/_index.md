@@ -17,6 +17,12 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
+# Stärken
+Strengths:
+  - name: Umfangreiche Personalplanungserfahrung 
+    items:
+      - name: Planung
+        icon: custom/reporting2
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
