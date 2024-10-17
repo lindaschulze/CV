@@ -18,33 +18,20 @@ organizations:
     url: https://www.mercedes-benz.com/
 
 # My Strengths
-<div style="display: flex; flex-wrap: wrap; gap: 20px; border: 1px solid #ccc; padding: 20px; border-radius: 10px;">
-    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
-        <img src="{{ "assets/media/icons/custom/icon1.png" | absURL }}" alt="Icon 1" style="max-width: 60%;"><br>
-        Strength 1
-    </div>
-    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
-        <img src="{{ "assets/media/icons/custom/icon2.png" | absURL }}" alt="Icon 2" style="max-width: 60%;"><br>
-        Strength 2
-    </div>
-    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
-        <img src="{{ "assets/media/icons/custom/icon3.png" | absURL }}" alt="Icon 3" style="max-width: 60%;"><br>
-        Strength 3
-    </div>
-    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
-        <img src="{{ "assets/media/icons/custom/icon4.png" | absURL }}" alt="Icon 4" style="max-width: 60%;"><br>
-        Strength 4
-    </div>
-    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
-        <img src="{{ "assets/media/icons/custom/icon5.png" | absURL }}" alt="Icon 5" style="max-width: 60%;"><br>
-        Strength 5
-    </div>
-    <div style="flex: 1 1 calc(33.33% - 20px); text-align: center;">
-        <img src="{{ "assets/media/icons/custom/icon6.png" | absURL }}" alt="Icon 6" style="max-width: 60%;"><br>
-        Strength 6
-    </div>
-</div>
-
+strengths:
+  - name: Strength 1
+    icon: "{{ "assets/media/icons/custom/icon1.png" | absURL }}"
+  - name: Strength 2
+    icon: "{{ "assets/media/icons/custom/icon2.png" | absURL }}"
+  - name: Strength 3
+    icon: "{{ "assets/media/icons/custom/icon3.png" | absURL }}"
+  - name: Strength 4
+    icon: "{{ "assets/media/icons/custom/icon4.png" | absURL }}"
+  - name: Strength 5
+    icon: "{{ "assets/media/icons/custom/icon5.png" | absURL }}"
+  - name: Strength 6
+    icon: "{{ "assets/media/icons/custom/icon6.png" | absURL }}"
+    
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
