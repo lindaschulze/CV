@@ -27,7 +27,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: strengths
     content:
-      title: Strengths
+      title: strengths
       username: admin
   - block: experience
     content:

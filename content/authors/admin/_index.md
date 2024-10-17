@@ -17,6 +17,22 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
+strengths:
+  - name: Test
+    items:
+      - name: A
+        description: ''
+        percent: 80
+        icon: custom/powerbi
+      - name: B
+        description: ''
+        percent: 100
+        icon: ccustom/pasta
+      - name: C
+        description: ''
+        percent: 40
+        icon: custom/pasta
+
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
