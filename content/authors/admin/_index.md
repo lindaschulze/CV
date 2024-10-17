@@ -182,21 +182,3 @@ awards:
 
 test
 
-<style>
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1; text-align: center;">
-    <strong>Stärken</strong><br>
-    Mehrjährige Personalplanungserfahrung<br>
-    Cross-divisionale Leitung von Transformations- und Digitalisierungsprojekte<br>
-    Analytisches Denken<br>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <strong>Stärken</strong><br>
-    Topmanagement<br>
-    Komplexität simpel darstellen<br>
-    Internationale Erfahrung<br>
-  </div>
-  
-</div>
