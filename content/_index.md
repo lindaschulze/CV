@@ -55,7 +55,7 @@ sections:
       title: 'Hobbies'
       subtitle: ''
       text: |
-       ![Mercedes](/uploads/MB-Banner.jpg)  
+       ![Mercedes](static/uploads/kitesurfing.png)  
        Test.
 
 ---
