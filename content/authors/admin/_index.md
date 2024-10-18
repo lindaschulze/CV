@@ -26,23 +26,16 @@ awards:
     url: 
     date: ''
     awarder: 
-    icon: coursera
+    icon:
     summary: |
-      - Leitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführung einer einheitlichen Fachkarriere für Experten und Expertinnen im Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten
-      - Bereichsübergreifende Projektleitung des Vorstandsprojekts „HRM Focus Topic Data Analytics“ zur Einführung eines standardisierten und automatisierten HR-KPI-Dashboards für alle Vorstandsbereiche mithilfe von PowerBI
-      - Fachübergreifende Projektleitung für den Rollout und der technischen Umsetzung IMPULSE/MyContribution auf Sachbearbeitungsebene in RD
-      - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
-      - Leitung der Kulturinitiative „Culture@HR/RD“
-  - title: Personalplanungserfahrung
-    url: 
-    date: ''
-    awarder: 
-    icon: edx
-    summary: |
-      - Unterstützung der operativen und strategischen Personalplanung sowohl im MO- sowie RD- & MP-Umfeld
-      - Aufbau einer neuen Personalplanungsfunktion in MBSA (East London, Südafrika); Implementierung eines neuen Personalplanungstools 
-      - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
-      
+      - Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten
+      - Führungskompetenz in cross-divisionalen Projekten
+      - Umfangreiches Netzwerk
+      - Sicherer Umgang im Top-Management
+      - Komplexes einfach und klar darstellen 
+      - Internationale Erfahrung (z.B.: Aufbau Personalplanung in East London)
+
+
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
