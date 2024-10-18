@@ -25,10 +25,20 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: awards
+  - block: markdown
     content:
-      title: Was bringe ich mit?
-      username: admin
+      title: '👉 Was bringe ich mit?'
+      subtitle: ''
+      text: |-
+        - Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten
+        - Führungskompetenz in cross-divisionalen Projekten
+        - Umfangreiches Netzwerk
+        - Sicherer Umgang im Top-Management
+        - Komplexes einfach und klar darstellen 
+        - Internationale Erfahrung (z.B.: Aufbau Personalplanung in East London)
+      image:  assets/icons/banner.jpg
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Erfahrungen
@@ -42,20 +52,10 @@ sections:
     content:
       title: Skills
       username: admin
-  - block: markdown
+  - block: awards
     content:
-      title: 'Hobbies'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-      image:  assets/icons/banner.jpg
-    design:
-      columns: '2'
-     
+      title: Was bringe ich mit?
+      username: admin   
 ---
 
 
