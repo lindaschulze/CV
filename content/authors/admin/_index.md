@@ -22,7 +22,7 @@ organizations:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Cross-funktionale, cross-divisionale Projektleitungserfahrung
+  - title: '' 
     url: 
     date: ''
     awarder: 
@@ -144,58 +144,31 @@ skills:
         description: ''
         percent: 40
         icon: custom/pasta
+      - name: Excel, PowerPoint,...
+        description: ''
+        percent: 100
+        icon: custom/pasta
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Essen
+      - name: Deutsch
         description: ''
         percent: 100
         icon: custom/pasta
-      - name: Kitesurfen
+      - name: Englisch
         description: ''
-        percent: 40
+        percent: 90
         icon: custom/pasta
-      - name: Diving
+      - name: Spanisch
         description: ''
-        percent: 80
+        percent: 60
+        icon: custom/pasta
+      - name: Japanisch
+        description: ''
+        percent: 20
         icon: custom/pasta
 
-languages:
-  - name: Deutsch
-    percent: 100
-  - name: Englisch
-    percent: 90
-  - name: Spanisch
-    percent: 60
-  - name: Japanisch
-    percent: 20
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Cross-funktionale, cross-divisionale Projektleitungserfahrung
-    url: 
-    date: ''
-    awarder: 
-    icon: coursera
-    summary: |
-      - Leitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführung einer einheitlichen Fachkarriere für Experten und Expertinnen im Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten
-      - Bereichsübergreifende Projektleitung des Vorstandsprojekts „HRM Focus Topic Data Analytics“ zur Einführung eines standardisierten und automatisierten HR-KPI-Dashboards für alle Vorstandsbereiche mithilfe von PowerBI
-      - Fachübergreifende Projektleitung für den Rollout und der technischen Umsetzung IMPULSE/MyContribution auf Sachbearbeitungsebene in RD
-      - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
-      - Leitung der Kulturinitiative „Culture@HR/RD“
-  - title: Personalplanungserfahrung
-    url: 
-    date: ''
-    awarder: 
-    icon: edx
-    summary: |
-      - Unterstützung der operativen und strategischen Personalplanung sowohl im MO- sowie RD- & MP-Umfeld
-      - Aufbau einer neuen Personalplanungsfunktion in MBSA (East London, Südafrika); Implementierung eines neuen Personalplanungstools 
-      - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
 ---
 
 <!DOCTYPE html>
