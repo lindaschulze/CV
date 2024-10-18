@@ -23,10 +23,6 @@ organizations:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: '' 
-    url: 
-    date: ''
-    awarder: 
-    icon:
     summary: |
       - Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten
       - Führungskompetenz in cross-divisionalen Projekten

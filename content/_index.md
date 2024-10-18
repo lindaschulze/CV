@@ -44,3 +44,5 @@ sections:
       username: admin
      
 ---
+
+![Mein Bild](icons/custom/kitesurfing.png)
