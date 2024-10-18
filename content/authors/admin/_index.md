@@ -17,6 +17,32 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Cross-funktionale, cross-divisionale Projektleitungserfahrung
+    url: 
+    date: ''
+    awarder: 
+    icon: coursera
+    summary: |
+      - Leitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführung einer einheitlichen Fachkarriere für Experten und Expertinnen im Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten
+      - Bereichsübergreifende Projektleitung des Vorstandsprojekts „HRM Focus Topic Data Analytics“ zur Einführung eines standardisierten und automatisierten HR-KPI-Dashboards für alle Vorstandsbereiche mithilfe von PowerBI
+      - Fachübergreifende Projektleitung für den Rollout und der technischen Umsetzung IMPULSE/MyContribution auf Sachbearbeitungsebene in RD
+      - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
+      - Leitung der Kulturinitiative „Culture@HR/RD“
+  - title: Personalplanungserfahrung
+    url: 
+    date: ''
+    awarder: 
+    icon: edx
+    summary: |
+      - Unterstützung der operativen und strategischen Personalplanung sowohl im MO- sowie RD- & MP-Umfeld
+      - Aufbau einer neuen Personalplanungsfunktion in MBSA (East London, Südafrika); Implementierung eines neuen Personalplanungstools 
+      - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
+      
 education:
   - area: Master of Science in Business Economics (M.Sc.)
     institution: Otto von Guericke Universität, Magdeburg
