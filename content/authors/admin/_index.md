@@ -94,15 +94,15 @@ work:
     date_start: 2017-02-01
     date_end: 2018-06-30
     summary: |
-          - Projekt 1: HR MB Cars SEC Personalsteuerung (HRM/SECPS)<br>
-          - Unterstützung der operativen und strategischen Personalplanung; Konzeptionierung und Erstellung des HR Reports für MO/SEC<br>
-          - Projekt 2: Overhead Controlling & Plant Performance (FMC/SA)<br>
+            - Projekt 1: HR MB Cars SEC Personalsteuerung (HRM/SECPS)<br>
+            Unterstützung der operativen und strategischen Personalplanung; Konzeptionierung und Erstellung des HR Reports für MO/SEC<br>
+            - Projekt 2: Overhead Controlling & Plant Performance (FMC/SA)<br>
             Aufbau einer neuen Personalplanungsfunktion in MBSA; Implementierung eines neuen Personalplanungstools<br>
-          - Projekt 3: Global Assignment Management (HRD/G)<br>
+            - Projekt 3: Global Assignment Management (HRD/G)<br>
             Erstellung Trainingspaket für die HR Abteilungen in Asien zur neuen Global Mobility Policy<br>
-          - Projekt 4: After-Sales Marktdaten und Analysen (MS/DSM)<br>
+            - Projekt 4: After-Sales Marktdaten und Analysen (MS/DSM)<br>
             Überarbeitung des Quality Gate Prozesses für eine saubere Grundlage für Marktdatenanalysen<br>
-          - Projekt 5: Stab des Personalvorstands der Daimler AG (HR)<br> 
+            - Projekt 5: Stab des Personalvorstands der Daimler AG (HR)<br> 
             Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung<br>
 
 # Skills
