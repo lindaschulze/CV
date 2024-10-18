@@ -25,15 +25,19 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+
   - block: markdown
     content:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
         👉  Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten
+
         👉  Führungskompetenz in cross-divisionalen Projekten
+
         👉  Umfangreiches Netzwerk
-        👉  Sicherer Umgang mit dem Top-Management
+
+        -👉  Sicherer Umgang mit dem Top-Management
         👉  Fähigkeit, Komplexes einfach und klar darstellen 
         👉  Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London
   - block: experience
@@ -49,15 +53,11 @@ sections:
     content:
       title: Skills
       username: admin
-  - block: awards
-    content:
-      title: Was bringe ich mit?
-      username: admin   
   - block: markdown
     content:
       title: 'Hobbies'
       subtitle: ''
-      image: MB-Banner
+      filename: MB-Banner2.jpg
 ---
 
 

@@ -17,20 +17,6 @@ organizations:
   - name: Mercedes Benz AG
     url: https://www.mercedes-benz.com/
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: '' 
-    summary: |
-      - Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten
-      - Führungskompetenz in cross-divisionalen Projekten
-      - Umfangreiches Netzwerk
-      - Sicherer Umgang im Top-Management
-      - Komplexes einfach und klar darstellen 
-      - Internationale Erfahrung (z.B.: Aufbau Personalplanung in East London)
-
 
 education:
   - area: Master of Science in Business Economics (M.Sc.)
@@ -167,8 +153,3 @@ skills:
 
 
 ---
-
-
-
-
-[def]: images/mein-bild.jpg
