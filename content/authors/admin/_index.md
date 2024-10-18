@@ -122,7 +122,6 @@ work:
             Projekt 5: Stab des Personalvorstands der Daimler AG (HR) 
             Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung
 
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
