@@ -31,17 +31,12 @@ sections:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
-        👉  Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten
-
-        👉  Führungskompetenz in cross-divisionalen Projekten
-
-        👉  Umfangreiches Netzwerk
-
-        👉  Sicherer Umgang mit dem Top-Management
-
-        👉  Fähigkeit, Komplexes einfach und klar darstellen 
-
-        👉  Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London
+        👉 Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten<br>
+        👉 Führungskompetenz in cross-divisionalen Projekten<br>
+        👉 Umfangreiches Netzwerk<br>
+        👉 Sicherer Umgang mit dem Top-Management<br>
+        👉 Fähigkeit, Komplexes einfach und klar darzustellen<br>
+        👉 Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London
   - block: experience
     content:
       title: Erfahrungen
@@ -61,7 +56,7 @@ sections:
       subtitle: ''
       text: |
        ![Mercedes](/uploads/MB-Banner.jpg)  
-       Here’s a brief description of my hobbies, which include traveling, photography, and sports.
+       Test.
 
 ---
 
