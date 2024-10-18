@@ -165,7 +165,7 @@ skills:
         percent: 20
         icon: custom/pasta
 
-![Mein Bild](assets/icons/banner.jpg)
+image: assets/icons/banner.jpg
 ---
 
 
