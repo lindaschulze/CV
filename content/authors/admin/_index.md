@@ -130,19 +130,15 @@ skills:
       - name: PowerBI
         description: ''
         percent: 80
-        icon: custom/powerbi
       - name: VBA
         description: ''
         percent: 100
-        icon: custom/network
       - name: KNIME
         description: ''
         percent: 40
-        icon: custom/reporting2
       - name: Excel, PowerPoint,...
         description: ''
         percent: 100
-        icon: custom/excel
   - name: Sprachen
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -150,19 +146,16 @@ skills:
       - name: Deutsch
         description: ''
         percent: 100
-        icon: custom/deutsch
       - name: Englisch
         description: ''
         percent: 90
-        icon: custom/English
       - name: Spanisch
         description: ''
         percent: 60
-        icon: custom/spanish
       - name: Japanisch
         description: ''
         percent: 20
-        icon: custom/japanisch
+
 
 
 
