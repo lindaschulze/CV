@@ -152,15 +152,6 @@ languages:
   - name: Japanisch
     percent: 20
 
-#interests
-languages:
-  - name: Reisen
-    description: 'Ich liebe es, neue Länder und Kulturen zu entdecken'
-  - name: Lesen
-    description: 'Besonders gerne lese ich Bücher über persönliche Entwicklung.'
-  - name: Fotografie
-    description: 'Ich fotografiere gerne, um besondere Momente festzuhalten.'
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -188,4 +179,46 @@ awards:
       - Digitalisierung, Automatisierung und Standardisierung von Personalplanungsprozessen
 ---
 
-test
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Column Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Full height of the viewport */
+            margin: 0; /* Remove default margin */
+            font-family: Arial, sans-serif; /* Use a clean font */
+        }
+        .container {
+            display: flex; /* Use flexbox for columns */
+            justify-content: center;
+        }
+        .column {
+            margin: 0 20px; /* Spacing between columns */
+            text-align: center; /* Center text in columns */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="column">
+        <p>Word1</p>
+        <p>Word2</p>
+        <p>Word3</p>
+    </div>
+    <div class="column">
+        <p>Word4</p>
+        <p>Word5</p>
+        <p>Word6</p>
+    </div>
+</div>
+
+</body>
+</html>
+
