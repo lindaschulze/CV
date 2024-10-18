@@ -115,16 +115,16 @@ skills:
     items:
       - name: PowerBI
         description: ''
-        percent: 80
-      - name: VBA
+        percent: 90
+      - name: VBA/Makros
         description: ''
-        percent: 100
+        percent: 70
       - name: KNIME
         description: ''
         percent: 40
       - name: Excel, PowerPoint,...
         description: ''
-        percent: 100
+        percent: 90
   - name: Sprachen
     color: '#eeac02'
     color_border: '#f0bf23'
