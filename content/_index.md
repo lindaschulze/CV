@@ -55,7 +55,9 @@ sections:
       title: 'Hobbies'
       subtitle: ''
       text: |
-       ![Mercedes](kitesurfing.png)  
+       ![Kitesurfen](images/kitesurfing.png) 
+       ![Tauchen](images/diving.png)
+       ![Essen](images/food.png) 
        Test.
 ---
 
