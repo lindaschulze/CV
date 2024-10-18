@@ -31,6 +31,7 @@ sections:
       username: admin
   - block: experience
     content:
+      title: Erfahrungen
       username: admin
     design:
       # Hugo date format
@@ -39,12 +40,7 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Sprachen
+      title: Skills
       username: admin
-  - block: languages
-    content:
-      title: Sprachen
-      username: admin
-
      
 ---

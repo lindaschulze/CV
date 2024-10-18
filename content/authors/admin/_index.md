@@ -130,7 +130,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Tools
     items:
       - name: PowerBI
         description: ''
@@ -148,7 +148,7 @@ skills:
         description: ''
         percent: 100
         icon: custom/pasta
-  - name: Hobbies
+  - name: Sprachen
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -171,46 +171,4 @@ skills:
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Two Column Layout</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Full height of the viewport */
-            margin: 0; /* Remove default margin */
-            font-family: Arial, sans-serif; /* Use a clean font */
-        }
-        .container {
-            display: flex; /* Use flexbox for columns */
-            justify-content: center;
-        }
-        .column {
-            margin: 0 20px; /* Spacing between columns */
-            text-align: center; /* Center text in columns */
-        }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    <div class="column">
-        <p>Word1</p>
-        <p>Word2</p>
-        <p>Word3</p>
-    </div>
-    <div class="column">
-        <p>Word4</p>
-        <p>Word5</p>
-        <p>Word6</p>
-    </div>
-</div>
-
-</body>
-</html>
 
