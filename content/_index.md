@@ -42,7 +42,11 @@ sections:
     content:
       title: Skills
       username: admin
+  - block: languages
+    content:
+     titel: hobbies
+      image: assets/icons/banner.jpg
      
 ---
 
-![Mein Bild](icons/custom/kitesurfing.png)
+
