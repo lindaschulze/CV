@@ -45,9 +45,6 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: strengths
-    content:
-      username: admin
   - block: interests
     content:
       title: Interessen
