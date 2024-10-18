@@ -40,7 +40,7 @@ sections:
         👉  Sicherer Umgang mit dem Top-Management
 
         👉  Fähigkeit, Komplexes einfach und klar darstellen 
-        
+
         👉  Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London
   - block: experience
     content:
@@ -60,7 +60,7 @@ sections:
       title: 'Hobbies'
       subtitle: ''
       text: |
-       ![Mercedes](/assets/media/MB-Banner2.jpg)  
+       ![Mercedes](/content/authors/admin/avatar.jpg)  
        Here’s a brief description of my hobbies, which include traveling, photography, and sports.
 
 ---
