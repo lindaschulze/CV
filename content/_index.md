@@ -55,9 +55,9 @@ sections:
       title: 'Hobbies'
       subtitle: ''
       text: |
-       ![Kitesurfen](images/kitesurfing.png) 
-       ![Tauchen](images/diving.png)
-       ![Essen](images/food.png) 
+       ![Kitesurfen](images/kitesurfing.png){width=100 height=100}
+       ![Tauchen](images/diving.png){width=10 height=10}
+       ![Essen](images/food.png){width=100 height=100}
        Test.
 ---
 
