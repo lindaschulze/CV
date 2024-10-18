@@ -26,9 +26,6 @@ education:
     summary: |
       Schwerpunkt: HR & Finance
       ØNote 1,4 – Top 5%
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: Auslandssemester (Master of Business Administration)
     institution: EAFIT University, Kolumbien
     date_start: 2015-06-01
