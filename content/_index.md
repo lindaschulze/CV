@@ -39,11 +39,11 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills & Sprachen
       username: admin
   - block: languages
     content:
-      title: Languages
+      title: Sprachen
       username: admin
 
      
