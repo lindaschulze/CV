@@ -29,8 +29,8 @@ sections:
     content:
       title: 'Was bringe ich mit?'
       subtitle: ''
-      text: |
-        👉  Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten >
+      text: | >
+        👉  Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten
         👉  Führungskompetenz in cross-divisionalen Projekten
         👉  Umfangreiches Netzwerk
         👉  Sicherer Umgang mit dem Top-Management
