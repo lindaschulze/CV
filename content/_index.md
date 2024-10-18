@@ -57,7 +57,7 @@ sections:
     content:
       title: 'Hobbies'
       subtitle: ''
-      filename: MB-Banner2.jpg
+      text: ![Example Image](assets/MB-Banner2.jpg)
 ---
 
 
