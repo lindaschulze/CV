@@ -46,6 +46,7 @@ sections:
     content:
       title: Hobbies
       image: assets/icons/banner.jpg
+      username: admin
      
 ---
 
