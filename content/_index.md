@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: languages
     content:
-     titel: hobbies
+     title: hobbies
       image: assets/icons/banner.jpg
      
 ---
