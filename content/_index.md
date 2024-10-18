@@ -29,13 +29,13 @@ sections:
     content:
       title: 'Was bringe ich mit?'
       subtitle: ''
-      text: |-
-        👉  Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten 
-        👉   Führungskompetenz in cross-divisionalen Projekten
-         👉  Umfangreiches Netzwerk
-        👉  Sicherer Umgang im Top-Management
-        👉  Komplexes einfach und klar darstellen 
-        👉  Internationale Erfahrung (z.B.: Aufbau Personalplanung in East London)
+      text: |
+        👉  Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten >
+        👉  Führungskompetenz in cross-divisionalen Projekten
+        👉  Umfangreiches Netzwerk
+        👉  Sicherer Umgang mit dem Top-Management
+        👉  Fähigkeit, Komplexes einfach und klar darstellen 
+        👉  Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London
   - block: experience
     content:
       title: Erfahrungen
