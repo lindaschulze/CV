@@ -39,7 +39,7 @@ sections:
       username: admin
   - block: awards
     content:
-      title: awards
+      title: Was bringe ich mit?
       username: admin
   - block: languages
     content:
