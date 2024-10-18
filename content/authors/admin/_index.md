@@ -14,7 +14,7 @@ role: Projektkoordinatorin & Gremienmanagerin
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Mercedes Benz AG
+  - name: Mercedes-Benz AG
     url: https://www.mercedes-benz.com/
 
 
@@ -47,7 +47,7 @@ work:
       Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts, Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD
       
       Ergebnisse:
-      - Projektleitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführueinheitlichen Fachkarriere für Experten und Expertinnen imng einer  Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten & Arbeitspaketleitung für die Prozessgestaltung und der Entwicklung eines adäquaten IT-Tools & unter Einbindung des Betriebsrats
+      - Projektleitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführung einer einheitlichen Fachkarriere für Experten und Expertinnen im Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten & Arbeitspaketleitung für die Prozessgestaltung und der Entwicklung eines adäquaten IT-Tools & unter Einbindung des Betriebsrats
       - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
       - Enge und erfolgreiche Zusammenarbeit mit den Stäben der Vorstände HR und RD sowie allen zugehörigen Direktionsstäben
       - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
@@ -69,7 +69,7 @@ work:
             Leitung und aktive Mitarbeit in Sonderprojekten:
             - Bereichsübergreifende Leitung des Vorstandsprojekts „HRM Focus Topic Data Analytics“ zur Einführung eines standardisierten HR-KPI-Dashboards für alle Vorstandsbereiche mithilfe von PowerBI
             - Fachübergreifende Projektleitung für den Rollout und der technischen Umsetzung IMPULSE/- MyContribution auf Sachbearbeitungsebene in RD
-            - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der - Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
+            - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
             - Mitarbeit an der Kulturinitiative Culture@HR/RD
             
   - position: Personalplanung und Resource Management MO/SEC 
@@ -94,16 +94,16 @@ work:
     date_start: 2017-02-01
     date_end: 2018-06-30
     summary: |
-            Projekt 1: HR MB Cars SEC Personalsteuerung (HRM/SECPS) 
-            Unterstützung der operativen und strategischen Personalplanung; Konzeptionierung und Erstellung des HR Reports für MO/SEC 
-            Projekt 2: Overhead Controlling & Plant Performance (FMC/SA) 
-            Aufbau einer neuen Personalplanungsfunktion in MBSA; Implementierung eines neuen Personalplanungstools
-            Projekt 3: Global Assignment Management (HRD/G) 
-            Erstellung Trainingspaket für die HR Abteilungen in Asien zur neuen Global Mobility Policy 
-            Projekt 4: After-Sales Marktdaten und Analysen (MS/DSM) 
-            Überarbeitung des Quality Gate Prozesses für eine saubere Grundlage für Marktdatenanalysen
-            Projekt 5: Stab des Personalvorstands der Daimler AG (HR) 
-            Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung
+            Projekt 1: HR MB Cars SEC Personalsteuerung (HRM/SECPS)<br>
+            Unterstützung der operativen und strategischen Personalplanung; Konzeptionierung und Erstellung des HR Reports für MO/SEC<br>
+            Projekt 2: Overhead Controlling & Plant Performance (FMC/SA)<br>
+            Aufbau einer neuen Personalplanungsfunktion in MBSA; Implementierung eines neuen Personalplanungstools<br>
+            Projekt 3: Global Assignment Management (HRD/G)<br>
+            Erstellung Trainingspaket für die HR Abteilungen in Asien zur neuen Global Mobility Policy<br>
+            Projekt 4: After-Sales Marktdaten und Analysen (MS/DSM)<br>
+            Überarbeitung des Quality Gate Prozesses für eine saubere Grundlage für Marktdatenanalysen<br>
+            Projekt 5: Stab des Personalvorstands der Daimler AG (HR)<br> 
+            Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung<br>
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
