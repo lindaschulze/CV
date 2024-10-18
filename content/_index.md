@@ -60,7 +60,7 @@ sections:
       title: 'Hobbies'
       subtitle: ''
       text: |
-       ![Mercedes](/static/uploads/MB-Banner.jpg)  
+       ![Mercedes](/uploads/MB-Banner.jpg)  
        Here’s a brief description of my hobbies, which include traveling, photography, and sports.
 
 ---
