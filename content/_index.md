@@ -54,7 +54,6 @@ sections:
         Please reach out to collaborate 😃
       image:  assets/icons/banner.jpg
     design:
-      view: article-grid
       columns: '2'
      
 ---
