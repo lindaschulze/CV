@@ -152,6 +152,14 @@ languages:
   - name: Japanisch
     percent: 20
 
+#interests
+interests:
+  - name: Reisen
+    description: "Ich liebe es, neue Länder und Kulturen zu entdecken."
+  - name: Lesen
+    description: "Besonders gerne lese ich Bücher über persönliche Entwicklung."
+  - name: Fotografie
+    description: "Ich fotografiere gerne, um besondere Momente festzuhalten."
 
 # Awards.
 #   Add/remove as many awards below as you like.

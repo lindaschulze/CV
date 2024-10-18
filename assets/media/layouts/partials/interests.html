@@ -1,0 +1,11 @@
+<section id="interests">
+    <h2>{{ .Params.title }}</h2>
+    <ul>
+      {{ range .Params.interests }}
+        <li>
+          <strong>{{ .name }}</strong>: {{ .description }}
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+  

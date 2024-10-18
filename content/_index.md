@@ -48,4 +48,9 @@ sections:
   - block: strengths
     content:
       username: admin
+  - block: interests
+    content:
+      title: Interessen
+      username: admin
+     
 ---
