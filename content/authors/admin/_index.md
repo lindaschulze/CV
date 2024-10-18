@@ -165,11 +165,9 @@ skills:
         percent: 20
         icon: custom/pasta
 
-
-
-
-
-
+languages:
+  - name: Kitesurfing
+    image: assets/icons/banner.jpg
 
 
 
