@@ -55,7 +55,7 @@ sections:
       image:  assets/icons/banner.jpg
     design:
       view: article-grid
-      columns: 2
+      columns: '2'
      
 ---
 
