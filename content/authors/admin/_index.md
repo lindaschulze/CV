@@ -153,13 +153,13 @@ languages:
     percent: 20
 
 #interests
-interests:
+languages:
   - name: Reisen
-    description: "Ich liebe es, neue Länder und Kulturen zu entdecken."
+    description: 'Ich liebe es, neue Länder und Kulturen zu entdecken'
   - name: Lesen
-    description: "Besonders gerne lese ich Bücher über persönliche Entwicklung."
+    description: 'Besonders gerne lese ich Bücher über persönliche Entwicklung.'
   - name: Fotografie
-    description: "Ich fotografiere gerne, um besondere Momente festzuhalten."
+    description: 'Ich fotografiere gerne, um besondere Momente festzuhalten.'
 
 # Awards.
 #   Add/remove as many awards below as you like.
