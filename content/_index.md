@@ -53,6 +53,11 @@ sections:
     content:
       title: Was bringe ich mit?
       username: admin   
+  - block: markdown
+    content:
+      title: 'Hobbies'
+      subtitle: ''
+      image: MB-Banner
 ---
 
 
