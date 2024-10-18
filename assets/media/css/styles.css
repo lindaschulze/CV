@@ -1,0 +1,13 @@
+.strengths-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.strength {
+    background-color: #f2f2f2;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
