@@ -57,7 +57,9 @@ sections:
     content:
       title: 'Hobbies'
       subtitle: ''
-      text: ![Example Image](assets/MB-Banner2.jpg)
+      text: ![Mercedes](/assets/media/MB-Banner2.jpg)
+      ![Mercedes](/content/authors/admin/avatar.jpg)
+
 ---
 
 
