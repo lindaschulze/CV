@@ -1,25 +1,11 @@
-<div class="strengths-section">
-    <h2>{{ .content.title }}</h2>
-    <div class="strengths-grid">
-        {{ range .content.items }}
-            <div class="strength-item">
-                {{ .name }}
-            </div>
-        {{ end }}
+<div class="strengths">
+    <h2>Stärken</h2>
+    <div class="grid grid-cols-2 gap-4">
+        <div class="strength">Teamarbeit</div>
+        <div class="strength">Kreativität</div>
+        <div class="strength">Problemlösung</div>
+        <div class="strength">Zuverlässigkeit</div>
+        <div class="strength">Flexibilität</div>
+        <div class="strength">Kommunikation</div>
     </div>
 </div>
-
-<style>
-.strengths-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 columns */
-    gap: 1rem; /* Space between items */
-}
-
-.strength-item {
-    padding: 1rem;
-    background: #f0f0f0; /* Background color */
-    border-radius: 4px; /* Rounded corners */
-    text-align: center; /* Center text */
-}
-</style>
