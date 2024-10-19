@@ -60,6 +60,18 @@ sections:
         <img src="images/kitesurfing.png" alt="Kitesurfen" style="width: 30%;"/>
         <img src="images/diving.png" alt="Tauchen" style="width: 30%;"/>
         <img src="images/food.png" alt="Essen" style="width: 30%;"/>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
        </div>
     
 
