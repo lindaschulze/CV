@@ -32,7 +32,7 @@ sections:
       subtitle: ''
       text: | 
         👉 Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten<br>
-        👉 Führungskompetenz in cross-divisionalen Projekten<br>
+        👉 Führungskompetenz in cross-divisionalen Projekten, z.B.: Expert Journey, HR KPI Dashboard<br>
         👉 Umfangreiches Netzwerk<br>
         👉 Sicherer Umgang mit dem Top-Management<br>
         👉 Fähigkeit, Komplexes einfach und klar darzustellen<br>
