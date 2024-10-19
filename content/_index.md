@@ -36,7 +36,7 @@ sections:
         👉 Umfangreiches Netzwerk<br>
         👉 Sicherer Umgang mit dem Top-Management<br>
         👉 Fähigkeit, Komplexes einfach und klar darzustellen<br>
-        👉 Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London
+        👉 Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London, Südafrika
   - block: experience
     content:
       title: Erfahrungen
