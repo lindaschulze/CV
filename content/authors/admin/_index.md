@@ -25,7 +25,7 @@ education:
     date_end: 2016-03-01
     summary: |
       Schwerpunkt: HR & Finance
-      ØNote 1,4 – Top 5%
+      ØNote 1,4 – Top 3%
   - area: Auslandssemester (Master of Business Administration)
     institution: EAFIT University, Kolumbien
     date_start: 2015-06-01
@@ -47,7 +47,8 @@ work:
       Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
       
       Ergebnisse:
-      - Projektleitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführung einer einheitlichen Fachkarriere für Experten und Expertinnen im  Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten & Arbeitspaketleitung für die Prozessgestaltung und der Entwicklung eines adäquaten IT-Tools & unter Einbindung des Betriebsrats
+      - Projektleitung der bereichsübergreifenden 40-köpfigen Projektgruppe „Expert Journey“ in RD und IT zur Einführung einer einheitlichen Fachkarriere im Software-Umfeld – inkl. Entwicklungspfaden, Rahmen der Zusammenarbeit, unterstützendem IT-Tool sowie monetären und nicht-monetären Aspekten. Arbeitspaketleitung für Prozessgestaltung und Tool-Entwicklung in enger Abstimmung mit dem Betriebsrat.
+      - Unterstützung der Projektleitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
       - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
       - Enge und erfolgreiche Zusammenarbeit mit den Stäben der Vorstände HR und RD sowie allen zugehörigen Direktionsstäben
       - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
