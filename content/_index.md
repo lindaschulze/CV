@@ -33,9 +33,9 @@ sections:
       text: | 
         👉 Führungserfahrung in internationalen, cross-divisionalen Transformationsprojekten (z.B.: Winning Attitude, HR/RD TOM, Expert Journey)<br>
         👉 Expertise in Digitalisierung und Prozessautomatisierung (u.a.: Automatisierung Personalplanung, standardisiertes HR KPI Dashboards, IT-Tool für Expert Journey)<br>
-        👉 Versiert in agilen Methoden (z. B. Scrum, SAFe, Kanban – angewendet in Projekten wie Expert Journey)
-        👉 Souveräne Zusammenarbeit mit Top-Management, Betriebsrat und HR-Stakeholdern
-        👉 Fähigkeit, Komplexes einfach und klar darzustellen<br>
+        👉 Versiert in agilen Methoden (z. B. Scrum, SAFe, Kanban – angewendet in Projekten wie Expert Journey)<br>
+        👉 Souveräne Zusammenarbeit mit Top-Management, Betriebsrat und HR-Stakeholdern<br>
+        👉 Fähigkeit, Komplexes einfach und klar darzustellen
 
   - block: experience
     content:
