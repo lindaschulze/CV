@@ -44,13 +44,14 @@ work:
     date_start: 2022-06-01
     date_end: ''
     summary: |2-
-      Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts, Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD
+      Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
       
       Ergebnisse:
-      - Projektleitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführung einer einheitlichen Fachkarriere für Experten und Expertinnen im Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten & Arbeitspaketleitung für die Prozessgestaltung und der Entwicklung eines adäquaten IT-Tools & unter Einbindung des Betriebsrats
+      - Projektleitung der cross-divisionalen 40-köpfigen Projektgruppe Expert Journey in RD und IT zum Aufbau und zur Einführung einer einheitlichen Fachkarriere für Experten und Expertinnen im  Software-Umfeld inkl. Entwicklungspfaden, Rahmenwerk der Zusammenarbeit, unterstützendes IT-Tool sowie monetären und nicht-monetären Aspekten & Arbeitspaketleitung für die Prozessgestaltung und der Entwicklung eines adäquaten IT-Tools & unter Einbindung des Betriebsrats
       - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
       - Enge und erfolgreiche Zusammenarbeit mit den Stäben der Vorstände HR und RD sowie allen zugehörigen Direktionsstäben
       - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
+
       
       
   - position: Personalplanung & Reporting RD, CASE-CTO, CASE, MP 
