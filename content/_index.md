@@ -31,12 +31,12 @@ sections:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
-        👉 Mehrjährige Erfahrung in der Personalplanung an verschiedenen Standorten<br>
-        👉 Führungskompetenz in cross-divisionalen Projekten, z.B.: Expert Journey, HR KPI Dashboard<br>
-        👉 Umfangreiches Netzwerk<br>
-        👉 Sicherer Umgang mit dem Top-Management<br>
+        👉 Führungserfahrung in internationalen, cross-divisionalen Transformationsprojekten (z.B.: Winning Attitude, HR/RD TOM, Expert Journey)<br>
+        👉 Expertise in Digitalisierung und Prozessautomatisierung (u.a.: Automatisierung Personalplanung, standardisiertes HR KPI Dashboards, IT-Tool für Expert Journey)<br>
+        👉 Versiert in agilen Methoden (z. B. Scrum, SAFe, Kanban – angewendet in Projekten wie Expert Journey)
+        👉 Souveräne Zusammenarbeit mit Top-Management, Betriebsrat und HR-Stakeholdern
         👉 Fähigkeit, Komplexes einfach und klar darzustellen<br>
-        👉 Internationale Erfahrung, z.B.: Aufbau Personalplanung in East London, Südafrika
+
   - block: experience
     content:
       title: Erfahrungen
