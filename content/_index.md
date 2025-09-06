@@ -31,11 +31,13 @@ sections:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
-        👉 Führungserfahrung in internationalen, cross-divisionalen Transformationsprojekten (z.B.: Winning Attitude, HR/RD TOM, Expert Journey)<br>
-        👉 Expertise in Digitalisierung und Prozessautomatisierung (u.a.: Automatisierung Personalplanung, standardisiertes HR KPI Dashboards, IT-Tool für Expert Journey)<br>
-        👉 Versiert in agilen Methoden (z. B. Scrum, SAFe, Kanban – angewendet in Projekten wie Expert Journey)<br>
-        👉 Souveräne Zusammenarbeit mit Top-Management, Betriebsrat und HR-Stakeholdern<br>
-        👉 Fähigkeit, Komplexes einfach und klar darzustellen
+        👉 Gestalte Veränderungen aktiv und fördere ein Umfeld, das individuelles Wachstum ermöglicht
+        👉 Erfahrung in Personal- und Organisationsentwicklung durch Projekte wie Winning Attitude, Expert Journey, HR/RD 2.0, Impulse/MeinBeitrag
+        👉 Sicherer Umgang mit allen Ebenen und Erfahrung im Gremienmanagement – sicher in Abläufen & Entscheidungen
+        👉 Umfangreiches Netzwerk als Grundlage für effektive Zusammenarbeit 
+        👉 Internationale Erfahrung(>3 J., z.B.: im Global Assingment Management in China, …)
+<img width="1363" height="244" alt="image" src="https://github.com/user-attachments/assets/6975b554-b46d-489e-8d44-d70353366d57" />
+
 
   - block: experience
     content:
