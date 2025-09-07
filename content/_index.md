@@ -31,12 +31,11 @@ sections:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
-            👉 Gestalte Veränderungen aktiv und fördere ein Umfeld, das individuelles Wachstum ermöglicht <br>
-            👉 Erfahrung in Personal- und Organisationsentwicklung durch Projekte wie Winning Attitude, Expert Journey, HR/RD 2.0, Impulse/MeinBeitrag <br>
-            👉 Sicherer Umgang mit allen Ebenen und Erfahrung im Gremienmanagement – sicher in Abläufen & Entscheidungen <br>
-            👉 Umfangreiches Netzwerk als Grundlage für effektive Zusammenarbeit <br>
-            👉 Internationale Erfahrung (>3 Jahre, z.B. im Global Assingment Management in China, …)
-
+            👉 Gestalte Veränderungen aktiv und fördere ein Umfeld, das individuelles Wachstum ermöglicht
+            👉 Erfahrung in Personal- und Organisationsentwicklung durch Projekte wie Winning Attitude, Expert Journey, HR/RD 2.0, Impulse/MeinBeitrag
+            👉 Sicherer Umgang mit allen Ebenen und Erfahrung im Gremienmanagement – vertraut in Abläufen & Entscheidungen
+            👉 Umfangreiches Netzwerk nach Deutschland für eine effektive Zusammenarbeit 
+            👉 Internationale Erfahrung(~3 J., z.B.: im Global Assingment Management in China, …)
 
   - block: experience
     content:
