@@ -35,7 +35,7 @@ sections:
             👉 Erfahrung in Personal- und Organisationsentwicklung durch Projekte wie Winning Attitude, Expert Journey, HR/RD 2.0, Impulse/MeinBeitrag  <br>
             👉 Sicherer Umgang mit allen Ebenen und Erfahrung im Gremienmanagement – vertraut in Abläufen & Entscheidungen  <br>
             👉 Umfangreiches Netzwerk nach Deutschland für eine effektive Zusammenarbeit  <br>
-            👉 Internationale Erfahrung(~3 J., z.B.: im Global Assingment Management in China, …)
+            👉 Internationale Erfahrung (~3 J., z.B.: im Global Assingment Management in China, …)
     
   - block: experience
     content:
