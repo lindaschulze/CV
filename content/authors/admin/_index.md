@@ -44,11 +44,11 @@ work:
     date_start: 2022-06-01
     date_end: ''
     summary: |2-
-      Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
+      Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, konzeptionelle Ausarbeitung und verantwortliche Koordination strategischer Projekte, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
       
       Ergebnisse:
-      - Projektleitung der bereichsübergreifenden 40-köpfigen Projektgruppe „Expert Journey“ in RD und IT zur Einführung einer einheitlichen Fachkarriere im Software-Umfeld – inkl. Entwicklungspfaden, Rahmen der Zusammenarbeit, unterstützendem IT-Tool sowie monetären und nicht-monetären Aspekten. Arbeitspaketleitung für Prozessgestaltung und Tool-Entwicklung in enger Abstimmung mit dem Betriebsrat.
-      - Unterstützung der Projektleitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
+            - Projektkoordination und konzeptionelle Ausarbeitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
+      - Projektleitung der bereichsübergreifenden 40-köpfigen Projektgruppe „Expert Journey“ in RD und IT und Gestaltung einer einheitlichen Fachkarriere im Software-Umfeld – inkl. Entwicklungspfaden, Rahmen der Zusammenarbeit, unterstützendem IT-Tool sowie monetären und nicht-monetären Aspekten. Arbeitspaketleitung für Prozessgestaltung und Tool-Entwicklung in enger Abstimmung mit dem Betriebsrat.
       - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
       - Enge und erfolgreiche Zusammenarbeit mit den Stäben der Vorstände HR und RD sowie allen zugehörigen Direktionsstäben
       - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
@@ -69,8 +69,8 @@ work:
             - Entwicklung und Implementierung eines HR-KPI-Dashboards mit PowerBI für den Vorstand und die zugehörigen Direktionen in den Bereichen Entwicklung und Einkauf
             
             Leitung und aktive Mitarbeit in Sonderprojekten:
-            - Bereichsübergreifende Leitung des Vorstandsprojekts „HRM Focus Topic Data Analytics“ zur Einführung eines standardisierten HR-KPI-Dashboards für alle Vorstandsbereiche mithilfe von PowerBI
-            - Fachübergreifende Projektleitung für den Rollout und der technischen Umsetzung IMPULSE/- MyContribution auf Sachbearbeitungsebene in RD
+            - Bereichsübergreifende Leitung des Vorstandsprojekts „HRM Focus Topic Data Analytics“ zur optimalen Nutzung von Daten in HR-Produkten und -Services. Aufbau der organisatorischen Struktur, Implementierung eines Arbeitsmodells für Datenstrategie und -katalog, Einführung eines Enablement-Konzepts für HRM-Mitarbeitende sowie Entwicklung eines MBAG-weiten HR-KPI-Dashboards
+            - Fachübergreifende Leitung des Rollouts und der technischen Umsetzung von IMPULSE/MyContribution auf Sachbearbeitungsebene in RD, inklusive eines Betreibermodell sowie Trainings-, Kommunikations- und Enablement-Konzepten.
             - Projektleitungsunterstützung beim „Target Operating Model HRM/RD 2.0“, der Neuausrichtung des Personalbereichs für Entwicklung und Einkauf 
             - Mitarbeit an der Kulturinitiative Culture@HR/RD
             
@@ -106,6 +106,20 @@ work:
             Überarbeitung des Quality Gate Prozesses für eine saubere Grundlage für Marktdatenanalysen<br>
             - Projekt 5: Stab des Personalvorstands der Daimler AG (HR)<br> 
             Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung<br>
+
+    - position: Weitere Erfahrung  
+    company_name: divers
+    company_url: ''
+    company_logo: ''
+    date_start: divers
+    date_end: 
+    summary: |
+      - HR-(Auslands-)praktika Deutsche Telekom (DE & UK) & Cardyfren (ES)<br>
+      - ehrenamtliche Leitung eines internationalen Kultur- & Musikfestivals inkl. eines Austauschprogramms<br>
+      - Gründung Rotex, einer Vereinigung zur Begleitung von Austauschschüler/innen vor, während und nach ihrem Schüleraustausch<br>
+      - Wissenschaftliche Hilfskraft am Lehrstuhl für International Business und im Experimentallabor für Wirtschaftsforschung<br>
+      - internationale Erfahrung im Rahmen von Summer Schools und Austauschprogramme (Japan, China, Australien, Spanien, USA)  
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
