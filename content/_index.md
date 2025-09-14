@@ -31,11 +31,11 @@ sections:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
-            👉 Gestalte Veränderungen aktiv und fördere ein Umfeld, das individuelles Wachstum ermöglicht  <br>
-            👉 Erfahrung in Personal- und Organisationsentwicklung durch Projekte wie Winning Attitude, Expert Journey, HR/RD 2.0, Impulse/MeinBeitrag  <br>
-            👉 Sicherer Umgang mit allen Ebenen und Erfahrung im Gremienmanagement – vertraut in Abläufen & Entscheidungen  <br>
-            👉 Umfangreiches Netzwerk nach Deutschland für eine effektive Zusammenarbeit  <br>
-            👉 Internationale Erfahrung (~3 J., z.B.: im Global Assingment Management in China, …)
+            👉 Erfahrung in der Steuerung und Umsetzung strategischer Transformations- und Digitalisierungsprojekte (u. a. Expert Journey inkl. Tool, HR Focus Topic Data Analytics, HR/RD 2.0, Impulse/MeinBeitrag)  <br>
+            👉 Starkes Interesse an Innovation und Digitalisierungsthemen <br>
+            👉 Sicherer Umgang mit allen Ebenen und breites Netzwerk  <br>
+            👉 Arbeitserfahrung im Ausland und mit global agierenden Teams  <br>
+            👉 Lösungsorientierte und eigeninitiative Arbeitsweise, kombiniert mit hoher Belastbarkeit und Stressresistenz 
     
   - block: experience
     content:
@@ -97,7 +97,42 @@ sections:
         <br>
         <br>
         <br> 
-
+  <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br> 
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br> 
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br> 
     
 ---
 
