@@ -112,14 +112,14 @@ work:
     company_name: divers
     company_url: ''
     company_logo: ''
-    date_start: 2017-02-01
-    date_end: 2018-06-30
+    date_start: -
+    date_end: -
     summary: |
             - HR-(Auslands-)praktika Deutsche Telekom (DE & UK) & Cardyfren (ES)<br>
-            - ehrenamtliche Leitung eines internationalen Kultur- & Musikfestivals inkl. eines Austauschprogramms<br>
+            - Ehrenamtliche Leitung eines internationalen Kultur- & Musikfestivals inkl. eines Austauschprogramms<br>
             - Gründung Rotex, einer Vereinigung zur Begleitung von Austauschschüler/innen vor, während und nach ihrem Schüleraustausch<br>
             - Wissenschaftliche Hilfskraft am Lehrstuhl für International Business und im Experimentallabor für Wirtschaftsforschung<br>
-            - internationale Erfahrung im Rahmen von Summer Schools und Austauschprogramme (Japan, China, Australien, Spanien, USA)<br>
+            - Internationale Erfahrung im Rahmen von Summer Schools und Austauschprogrammen (Japan, China, Australien, Spanien, USA)<br>
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
