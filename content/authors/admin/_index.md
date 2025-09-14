@@ -46,12 +46,12 @@ work:
     summary: |
             Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, konzeptionelle Ausarbeitung und verantwortliche Koordination strategischer Projekte, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
       
-      Ergebnisse:
-      - Projektkoordination und konzeptionelle Ausarbeitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
-      - Projektleitung der bereichsübergreifenden 40-köpfigen Projektgruppe „Expert Journey“ in RD und IT und Gestaltung einer einheitlichen Fachkarriere im Software-Umfeld – inkl. Entwicklungspfaden, Rahmen der Zusammenarbeit, unterstützendem IT-Tool sowie monetären und nicht-monetären Aspekten. Arbeitspaketleitung für Prozessgestaltung und Tool-Entwicklung in enger Abstimmung mit dem Betriebsrat.
-      - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
-      - Enge und erfolgreiche Zusammenarbeit mit den Stäben der Vorstände HR und RD sowie allen zugehörigen Direktionsstäben
-      - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
+            Ergebnisse:
+            - Projektkoordination und konzeptionelle Ausarbeitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
+            - Projektleitung der bereichsübergreifenden 40-köpfigen Projektgruppe „Expert Journey“ in RD und IT und Gestaltung einer einheitlichen Fachkarriere im Software-Umfeld – inkl. Entwicklungspfaden, Rahmen der Zusammenarbeit, unterstützendem IT-Tool sowie monetären und nicht-monetären Aspekten. Arbeitspaketleitung für Prozessgestaltung und Tool-Entwicklung in enger Abstimmung mit dem Betriebsrat.
+            - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
+            - Enge und erfolgreiche Zusammenarbeit mit den Stäben der Vorstände HR und RD sowie allen zugehörigen Direktionsstäben
+            - Verantwortung der Centerkommunikation HR/RD inkl. Sicherstellung eines effektiven Informationsflusses innerhalb des Centers und Schnittstellenmanagement durch neue Kommunikationsformate
 
       
       
