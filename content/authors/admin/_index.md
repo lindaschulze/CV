@@ -47,7 +47,7 @@ work:
       Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, konzeptionelle Ausarbeitung und verantwortliche Koordination strategischer Projekte, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
       
       Ergebnisse:
-            - Projektkoordination und konzeptionelle Ausarbeitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
+      - Projektkoordination und konzeptionelle Ausarbeitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
       - Projektleitung der bereichsübergreifenden 40-köpfigen Projektgruppe „Expert Journey“ in RD und IT und Gestaltung einer einheitlichen Fachkarriere im Software-Umfeld – inkl. Entwicklungspfaden, Rahmen der Zusammenarbeit, unterstützendem IT-Tool sowie monetären und nicht-monetären Aspekten. Arbeitspaketleitung für Prozessgestaltung und Tool-Entwicklung in enger Abstimmung mit dem Betriebsrat.
       - Leitung der Kulturinitiative „Culture@HR/RD“ inkl. Einführung diverser innovativer Kultur- und Changeformate
       - Enge und erfolgreiche Zusammenarbeit mit den Stäben der Vorstände HR und RD sowie allen zugehörigen Direktionsstäben
@@ -107,13 +107,13 @@ work:
             - Projekt 5: Stab des Personalvorstands der Daimler AG (HR)<br> 
             Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung<br>
 
-- position: Weitere Erfahrung  
-  company_name: divers
-  company_url: ''
-  company_logo: ''
-  date_start: divers
-  date_end: divers
-  summary: |
+  - position: Weitere Erfahrung  
+   company_name: divers
+   company_url: ''
+   company_logo: ''
+   date_start: divers
+   date_end: divers
+   summary: |
             - HR-(Auslands-)praktika Deutsche Telekom (DE & UK) & Cardyfren (ES)<br>
             - ehrenamtliche Leitung eines internationalen Kultur- & Musikfestivals inkl. eines Austauschprogramms<br>
             - Gründung Rotex, einer Vereinigung zur Begleitung von Austauschschüler/innen vor, während und nach ihrem Schüleraustausch<br>
