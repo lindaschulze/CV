@@ -43,8 +43,8 @@ work:
     company_logo: ''
     date_start: 2022-06-01
     date_end: ''
-    summary: |2-
-      Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, konzeptionelle Ausarbeitung und verantwortliche Koordination strategischer Projekte, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
+    summary: |
+            Mitwirkung bei der strategischen und kulturellen Weiterentwicklung des Bereiches HR/RD, konzeptionelle Ausarbeitung und verantwortliche Koordination strategischer Projekte, Unterstützung der Personalleitung für Entwicklung und Einkauf in allen Belangen des Tagesgeschäfts und Koordination von Projekten
       
       Ergebnisse:
       - Projektkoordination und konzeptionelle Ausarbeitung im NLP-Stream 3 „Winning Attitude“ zur Entwicklung der Zielkultur von Mercedes-Benz – inkl. Maßnahmen, Projektstruktur, Strategie, Kommunikation, agilen Methoden
