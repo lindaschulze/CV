@@ -35,7 +35,7 @@ sections:
             👉 Starkes Interesse an Innovation und Digitalisierungsthemen <br>
             👉 Sicherer Umgang mit allen Ebenen und breites Netzwerk  <br>
             👉 Arbeitserfahrung im Ausland und mit global agierenden Teams  <br>
-            👉 Lösungsorientierte und eigeninitiative Arbeitsweise, kombiniert mit hoher Belastbarkeit und Stressresistenz 
+            👉 Lösungsorientierte und eigeninitiative Arbeitsweise, kombiniert mit hoher Belastbarkeit und Stressresistenz <br>
     
   - block: experience
     content:
