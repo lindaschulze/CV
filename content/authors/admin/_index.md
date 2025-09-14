@@ -112,8 +112,8 @@ work:
     company_name: divers
     company_url: ''
     company_logo: ''
-    date_start: -
-    date_end: -
+    date_start: 2009-01-01
+    date_end: 2016-12-31
     summary: |
             - HR-(Auslands-)praktika Deutsche Telekom (DE & UK) & Cardyfren (ES)<br>
             - Ehrenamtliche Leitung eines internationalen Kultur- & Musikfestivals inkl. eines Austauschprogramms<br>
