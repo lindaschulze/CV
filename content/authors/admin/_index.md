@@ -107,18 +107,18 @@ work:
             - Projekt 5: Stab des Personalvorstands der Daimler AG (HR)<br> 
             Automatisierung von Prozessen; Erstellung einer Redendatenbank; Vorbereitung Hauptversammlung<br>
 
-    - position: Weitere Erfahrung  
+- position: Weitere Erfahrung  
     company_name: divers
     company_url: ''
     company_logo: ''
     date_start: divers
     date_end: 
     summary: |
-      - HR-(Auslands-)praktika Deutsche Telekom (DE & UK) & Cardyfren (ES)<br>
-      - ehrenamtliche Leitung eines internationalen Kultur- & Musikfestivals inkl. eines Austauschprogramms<br>
-      - Gründung Rotex, einer Vereinigung zur Begleitung von Austauschschüler/innen vor, während und nach ihrem Schüleraustausch<br>
-      - Wissenschaftliche Hilfskraft am Lehrstuhl für International Business und im Experimentallabor für Wirtschaftsforschung<br>
-      - internationale Erfahrung im Rahmen von Summer Schools und Austauschprogramme (Japan, China, Australien, Spanien, USA)  
+            - HR-(Auslands-)praktika Deutsche Telekom (DE & UK) & Cardyfren (ES)<br>
+            - ehrenamtliche Leitung eines internationalen Kultur- & Musikfestivals inkl. eines Austauschprogramms<br>
+            - Gründung Rotex, einer Vereinigung zur Begleitung von Austauschschüler/innen vor, während und nach ihrem Schüleraustausch<br>
+            - Wissenschaftliche Hilfskraft am Lehrstuhl für International Business und im Experimentallabor für Wirtschaftsforschung<br>
+            - internationale Erfahrung im Rahmen von Summer Schools und Austauschprogramme (Japan, China, Australien, Spanien, USA)  
 
 
 # Skills
