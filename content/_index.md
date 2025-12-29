@@ -31,10 +31,10 @@ sections:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
-            👉 Mehrjährige Führung in strategischer HR-Gestaltung, Organisationsentwicklung und Transformation (u. a. Winning Attitude, TOM HRM/RD 2.0)
+            👉 Mehrjährige (Führungs-)kompetenz in strategischer HR-Gestaltung, Organisationsentwicklung und Transformation (u. a. Winning Attitude, TOM HRM/RD 2.0)
             👉 Übersetzung von Strategie in skalierbare HR-Konzepte und Prozesse mit klarem Business-Fokus (u.a. Expert Journey, Strateg. Resource Management)
             👉 Breites Netzwerk in HR und RD mit sicherem Umgang auf allen Ebenen zur Wahrnehmung Linking Pin-Rolle
-            👉 Datenbasierte HR-Steuerung durch Analytics-, KPI- und Digitalisierungsinitiativen (z.B.  Leitung & Umsetzung HR KPI Dashboard)
+            👉 Datenbasierte HR-Steuerung durch Analytics-, KPI- und Digitalisierungsinitiativen (z.B.: KPI Dashboard, Data Analytics)
             👉 Lösungsstark, eigeninitiativ und hochbelastbar
     
   - block: experience
