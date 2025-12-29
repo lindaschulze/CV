@@ -31,11 +31,11 @@ sections:
       title: 'Was bringe ich mit?'
       subtitle: ''
       text: | 
-            👉 Erfahrung in der Steuerung und Umsetzung strategischer Transformations- und Digitalisierungsprojekte (u. a. Winning Attitude, Expert Journey inkl. Tool, HR Focus Topic Data Analytics, HR/RD 2.0, Impulse/MeinBeitrag)  <br>
-            👉 Starkes Interesse an Innovation und Digitalisierungsthemen <br>
-            👉 Sicherer Umgang mit allen Ebenen und breites Netzwerk  <br>
-            👉 Arbeitserfahrung im Ausland und mit global agierenden Teams  <br>
-            👉 Lösungsorientierte und eigeninitiative Arbeitsweise, kombiniert mit hoher Belastbarkeit und Stressresistenz
+            👉 Mehrjährige Führung in strategischer HR-Gestaltung, Organisationsentwicklung und Transformation (u. a. Winning Attitude, TOM HRM/RD 2.0)
+            👉 Übersetzung von Strategie in skalierbare HR-Konzepte und Prozesse mit klarem Business-Fokus (u.a. Expert Journey, Strateg. Resource Management)
+            👉 Breites Netzwerk in HR und RD mit sicherem Umgang auf allen Ebenen zur Wahrnehmung Linking Pin-Rolle
+            👉 Datenbasierte HR-Steuerung durch Analytics-, KPI- und Digitalisierungsinitiativen (z.B.  Leitung & Umsetzung HR KPI Dashboard)
+            👉 Lösungsstark, eigeninitiativ und hochbelastbar
     
   - block: experience
     content:
