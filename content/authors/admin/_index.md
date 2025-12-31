@@ -70,7 +70,7 @@ work:
     date_start: 2018-07-01
     date_end: 2019-12-31
     summary: |
-            Strategisches Resource Management sowie Planung, Analyse und Präsentation der Personalplanungsprozesse für die Bereiche in MO/SEC und Einführung Skill Management
+            Optimierung langfristiger Personalbedarfe und -ressourcen durch Konzeption und Durchführung von Workshops, Ableitung und Umsetzung von Maßnahmen sowie Einführung von Skill Management
 
   - position: CAReer – The Top Talent Program  
     company_name: Daimler AG
