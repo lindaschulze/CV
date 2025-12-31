@@ -58,7 +58,7 @@ work:
 
             Sonderprojekte:
             - Projektleitung des Vorstandsprojekts HR Focus Topic Data Analytics,
-            - Projektleitung Rollout & technische Umsetzung von IMPULSE/MyContribution auf E5- & SB-Ebene in RD, 
+            - Projektleitung Rollout & technische Umsetzung von IMPULSE/MyContribution auf E5- & SB-Ebene in RD, 
             - Projektleitungsunterstützung Target Operating Model HR/RD 2.0,
             - Mitarbeit Kulturinitiative Culture@HR/RD
 
